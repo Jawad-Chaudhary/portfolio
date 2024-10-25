@@ -1,6 +1,5 @@
 'use client'
 import Image from "next/image";
-import { CiSquareCheck } from "react-icons/ci";
 import { useEffect } from 'react';
 import 'aos/dist/aos.css';
 import AOS from 'aos';

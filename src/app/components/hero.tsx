@@ -41,10 +41,10 @@ export default function Hero() {
       </h1>
       <div className="w-[200px] bg-blue-200 h-[2px] rounded-full"> </div>
       <p data-aos='fade-up-left' className="mb-8 leading-relaxed italic">
-      "Passionate Web Developer skilled in creating responsive, dynamic, and user-friendly websites. 
+      &quot; Passionate Web Developer skilled in creating responsive, dynamic, and user-friendly websites. 
       With a strong foundation in HTML, CSS, JavaScript, and modern frameworks, I specialize in turning 
       creative ideas into functional, visually appealing web applications. Dedicated to continuous learning, 
-      I strive to deliver high-quality code and seamless user experiences."
+      I strive to deliver high-quality code and seamless user experiences.&quot;
       </p>
       <div className="flex justify-center">
         <button data-aos='zoom-in-up' data-aos-duration='2000' className="inline-flex text-white items-center bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
